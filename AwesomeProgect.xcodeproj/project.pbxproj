@@ -13,6 +13,7 @@
 		B425CAE02823CF9700CCAE4E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B425CADF2823CF9700CCAE4E /* Preview Assets.xcassets */; };
 		B425CAEB2823CF9800CCAE4E /* AwesomeProgectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B425CAEA2823CF9800CCAE4E /* AwesomeProgectTests.swift */; };
 		B425CAF62823CF9800CCAE4E /* AwesomeProgectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B425CAF52823CF9800CCAE4E /* AwesomeProgectUITests.swift */; };
+		B425CB042823D64000CCAE4E /* .gitignore.xib in Resources */ = {isa = PBXBuildFile; fileRef = B425CB032823D64000CCAE4E /* .gitignore.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		B425CAF12823CF9800CCAE4E /* AwesomeProgectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AwesomeProgectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B425CAF52823CF9800CCAE4E /* AwesomeProgectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AwesomeProgectUITests.swift; sourceTree = "<group>"; };
 		B425CAF72823CF9800CCAE4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B425CB032823D64000CCAE4E /* .gitignore.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = .gitignore.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				B425CADC2823CF9700CCAE4E /* Assets.xcassets */,
 				B425CAE12823CF9700CCAE4E /* Info.plist */,
 				B425CADE2823CF9700CCAE4E /* Preview Content */,
+				B425CB032823D64000CCAE4E /* .gitignore.xib */,
 			);
 			path = AwesomeProgect;
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B425CB042823D64000CCAE4E /* .gitignore.xib in Resources */,
 				B425CAE02823CF9700CCAE4E /* Preview Assets.xcassets in Resources */,
 				B425CADD2823CF9700CCAE4E /* Assets.xcassets in Resources */,
 			);
