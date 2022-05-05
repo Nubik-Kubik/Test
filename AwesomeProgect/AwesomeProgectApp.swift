@@ -11,7 +11,7 @@ import SwiftUI
 struct AwesomeProgectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
-        }
+            ContentView()}
     }
 }
+print ("hello")
